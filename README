@@ -1,1 +1,18 @@
+There is a single file that contains the instructions for this project.
+The file is called "Data Course Project.R" and consists of 3 sections:
 
+The first section are 10 steps to form a first Data Frame, the steps are as follows:
+  Step 1 - I define a variable with the folder main path that contains the raw data
+  Step 2 - Get and create a Data Frame with the "activity_labels.txt" file
+  Step 3 - Get and create a Data Frame with the "features.txt" file
+  Step 4 - Get and create a Data Frame with both Test and Train "subject_test.txt" and "subject_train.txt" files
+  Step 5 - Get and create a Data Frame with both Test and Train "y_test.txt" and "y_train.txt" files
+  Step 6 - Get and create a Data Frame with both Test and Train "X_test.txt" and "X_train.txt" files
+  Step 7 - Create a Features Data Frame, only with the "mean" and "std" head texts in columns names
+  Step 8 - Create a Data Frame with the columns required for both Test and Train called Test_DF and Train_DF respectively
+  Step 9 - Create only one Data Frame from both Test_DF and Train_DF
+  Step 10 - Merge the Data Frame with the file that contains the activities lables
+
+The second section is the creation of Tidy Frame which has the average of each variable for each activity and each subject. 
+
+The third section is the creation of the file extension "TXT" to store the Data Frames. 
