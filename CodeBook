@@ -1,1 +1,22 @@
+This is the Tidy Data Set's Codebook.
 
+This Dataset contains information about data collected from the accelerometers from the "Samsung Galaxy S" smartphone.
+
+Characteristics about the structure of the Tidy Data Set:
+  It has  81 variables
+  It has 180 observations
+
+Characteristics about the information that contains each variable:
+  The first variable named "name_activity" contains names of activities the smartphone register. The possible names are: 
+  LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS.
+  
+  The second variable named "id_subject" contains the id's of the 30 diferent subjects who where colected their data.
+  The values in this variable could be between 1 to 30 only.
+  
+  From the third variable to end, there are a diferent acceleration and gyroscophe meditions in each axis (X,Y,Z).
+  The number in each variable is the "mean" result of another source data set with detailed meditions.
+
+
+  
+  
+  
